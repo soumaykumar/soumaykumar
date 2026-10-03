@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumay Kumar</h1>
 <h3 align="center">B.Tech CSE Graduate | CDAC PGCP-AC Student | Aspiring Software Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soumaykumar&label=Profile%20views&color=0e75b6&style=flat" alt="soumaykumar" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=soumaykumar" alt="soumaykumar" />
-  </a>
-</p>
-
 <h3 align="left">👨‍💻 About Me:</h3>
 
 <p align="left">
@@ -112,18 +102,5 @@ Java • C++ • SQL • DBMS • DSA • HTML • CSS • JavaScript • React.
 </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumaykumar&show_icons=true&locale=en&layout=compact" alt="soumaykumar" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumaykumar&show_icons=true&locale=en" alt="soumaykumar" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumaykumar" alt="soumaykumar" />
-</p>
-
 <h3 align="center">✨ Learning • Building • Improving ✨</h3>
+
